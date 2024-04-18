@@ -3,10 +3,10 @@
 		"name": "Freedom Living District",
 		"replaces": "Library",
 		"uniqueTo": "Super Earth",
-		"happiness": 2,
+		"happiness": 1,
 		"maintenance": 1,
 		"hurryCostModifier": 25,
-		"uniques": ["[+1 Science] Per [2] population in this city", "New [Military] units start with [15] Experience [in this city]", "[-10]% Culture cost of natural border growth [in this city]", "Destroyed when the city is captured"],
+		"uniques": ["[+1 Science] Per [2] population in this city", "New [Military] units start with [5] Experience [in this city]", "[-5]% Culture cost of natural border growth [in this city]", "Destroyed when the city is captured"],
 		"requiredTech": "Writing"
 	},
 {
