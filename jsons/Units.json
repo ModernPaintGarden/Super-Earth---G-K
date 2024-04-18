@@ -1,0 +1,14 @@
+[	
+	{
+		"name": "Helldiver Team",
+		"unitType": "Gunpowder",
+		"uniqueTo": "Super Earth",
+		"replaces": "Mechanized Infantry",
+		"movement": 4,
+		"requiredTech": "Mobile Tactics",
+		"strength": 80,
+		"cost": 360,
+		"uniques": ["Never appears as a Barbarian unit", "Can carry [1] [Missile] units", "May Paradrop up to [6] tiles from inside friendly territory", "[+15]% Strength <when attacking>"], 
+		"attackSound": "tankshot"
+	},
+]
