@@ -6,7 +6,7 @@
 		"happiness": 2,
 		"maintenance": 1,
 		"hurryCostModifier": 25,
-		"uniques": ["[+1 Science] Per [2] Population in this city", "New [Military] units start with [15] Experience [in this city]", "[-10]% Culture cost of natural border growth [in this city]", "Destroyed when the city is captured"],
+		"uniques": ["[+1 Science] Per [2] population in this city", "New [Military] units start with [15] Experience [in this city]", "[-10]% Culture cost of natural border growth [in this city]", "Destroyed when the city is captured"],
 		"requiredTech": "Writing"
 	},
 {
@@ -17,7 +17,7 @@
 		"maintenance": 1,
 		"hurryCostModifier": 50,
 		"uniques": ["Remove extra unhappiness from annexed cities",
-			"Can only be built <in [Annexed] cities>"],
+			"Can only be built <in [annexed] cities>"],
 		"requiredTech": "Mathematics"
 	},
 
